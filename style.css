@@ -1,0 +1,534 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+
+
+.roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+
+
+
+body{
+    margin: 0 auto;
+    Height:3314px;
+}
+
+header {
+    height: 84px;
+    background: #007765;
+}
+
+.container{
+    margin: 0 auto;
+    width: 1219px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav img {
+    width: 184px;
+    height: 45px;
+    align-items: center;
+    margin-left: 55px;
+    margin-top: 10px;
+    
+}
+
+nav ul{
+    display: flex;
+    margin-top: 28px;
+    margin-right: 50px;
+    align-items: center;
+}
+
+nav ul li{
+    padding: 0 8px 0 8px;
+    text-decoration: none;
+    list-style-type: none;
+    color: white;
+    font-family: Roboto;
+    font-size: 24px;
+    line-height: 28.13px;
+    text-align: center;
+}
+
+
+
+.foto1 {
+    margin: 0 auto;
+    width: 2011px;
+    height: 403px;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+}
+.foto1 img{
+    display: flex;
+    align-items: center;
+}
+
+.prob {
+    margin: 0 auto;
+    display: flex;
+    width: 2011px;
+    height: 680px;
+    
+}
+
+.into1 {
+    margin: 0 auto;
+    margin-left: 406.5px;
+    display: flex;
+    align-items: center;
+    width: 1110px;
+    height: 75px;
+    top: 535px;
+    position: absolute;
+}
+
+.into1 p {
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 64px;
+    line-height: 75px;
+    text-align: center;
+    color: #007765;
+}
+
+.text1 {
+    margin: 0 auto;
+    margin-left: 406.5px;
+    width: 1110px;
+    height: 488px;
+    top: 626px;
+    position: absolute;
+
+}
+
+.text1 p{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style:normal;
+    font-size: 32px;
+    line-height: 37.5px;
+    text-align: left;
+}
+
+.text1 span {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+font-size: 32px;
+line-height: 37.5px;
+text-align: left;
+color: black;
+}
+
+.foto2 {
+    margin: 0 auto;
+    width: 2011px;
+    height: 483px;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+}
+
+.foto2 img{
+    display: flex;
+    align-items: center;
+}
+
+
+.pcc{
+    margin: 0 auto;
+    display: flex;
+    width: 2011px;
+    height: 640px;
+    
+}
+
+
+.into2 {
+    margin: 0 auto;
+    margin-left: 406.5px;
+    display: flex;
+    align-items: center;
+    width: 1110px;
+    height: 75px;
+    top: 1737px;
+    position: absolute;
+}
+
+.into2 p {
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 64px;
+    line-height: 75px;
+    text-align: center;
+    color: #007765;
+}
+
+
+.foto3 {
+    width: 115px;
+    height: 115px;
+    position: absolute;
+    top: 1828px;
+    margin-left: 451px;
+}
+
+.text2 {
+    width: 920px;
+    height: 110px;
+    position: absolute;
+    top: 1828px;
+    margin-left: 614px;
+}
+
+.text2 p{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style:normal;
+    font-size: 32px;
+    line-height: 37.5px;
+    text-align: left;
+    margin-top: 0;
+}
+
+.text3 {
+    width: 1110px;
+    height: 223px;
+    position: absolute;
+    top: 1978px;
+    margin-left: 406.5px;
+}
+
+.text3 p{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style:normal;
+    font-size: 32px;
+    line-height: 37.5px;
+    text-align: left;
+    margin-top: 0;
+}
+
+.bc{
+    background-color: rgba(238, 238, 238, 1);
+}
+
+.tt {
+    width: 2011px;
+    height: 820px;
+    margin: 0 auto;
+    display: flex;
+}
+
+.into3 {
+    margin: 0 auto;
+    margin-left: 406.5px;
+    display: flex;
+    align-items: center;
+    width: 1110px;
+    height: 75px;
+    top: 2330px;
+    position: absolute;
+}
+
+.into3 p {
+    margin: auto;
+    display: flex;
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 64px;
+    line-height: 75px;
+    text-align: center;
+    color: #007765;
+}
+
+.team{
+    margin-left: 406.5px;
+}
+
+
+.master_card1{
+    margin: 0 auto;
+    width: 350px;
+    height: 283px;
+    position: absolute;
+    top: 2458px;
+    margin-left: 0px;
+    }
+.master_card1 .master1{
+        display: flex;
+        margin: 0 auto;
+        width: 168px;
+        height: 168px;
+    }
+    .name1{
+        margin: 0 auto;
+        width: 350px;
+        height: 29px;
+
+    /* настройка шрифта */
+        font-family: "Roboto", sans-serif;
+        font-weight: 400;
+        font-style:normal;
+        font-size: 24px;
+        line-height: 28.13px;
+        text-align: center;
+        margin-top: 0;
+        color: #007765;
+}
+
+    .word1{
+        display: 0 flex;
+        margin:  auto;
+        width: 350px;
+        height: 22px;
+
+    /* настройка шрифта */
+    font-family: Roboto;
+    font-size: 17px;
+    font-style: italic;
+    line-height: 21.09px;
+    text-align: center;
+}
+
+
+
+
+.master_card2{
+    margin: 0 auto ;
+    width: 350px;
+    height: 283px;
+    position: absolute;
+    top: 2771px;
+    margin-left: 0px;
+}
+    .master_card2 .master2{
+        display: flex;
+        margin: 0 auto;
+        width: 168px;
+        height: 168px;
+}
+    .name2{
+        margin:0 auto;
+        width: 350px;
+        height: 29px;
+        /* font */
+        font-family: Roboto;
+        font-size: 24px;
+        line-height: 28.13px;
+        text-align: center;
+        color: #007765;
+    }
+    .word2{
+        display: 0 flex;
+        margin:  auto;
+        width: 350px;
+        height: 22px;
+    /* настройка шрифта */
+        font-family: Roboto;
+        font-size: 17px;
+        font-style: italic;
+        line-height: 21.09px;
+        text-align: center;
+}
+
+
+.master_card3{
+    margin: 0 auto ;
+    width: 350px;
+    height: 283px;
+    position: absolute;
+    top: 2771px;
+    margin-left: 380px;
+}
+    .master_card3 .master3{
+        display: flex;
+        margin: 0 auto;
+        width: 168px;
+        height: 168px;
+    }
+    .name3{
+        margin:0 auto;
+        width: 350px;
+        height: 29px;
+        /* font */
+        font-family: Roboto;
+        font-size: 24px;
+        line-height: 28.13px;
+        text-align: center;
+        color: #007765;
+    }
+    .word3{
+        display: 0 flex;
+        margin:  auto;
+        width: 350px;
+        height: 22px;
+    /* настройка шрифта */
+        font-family: Roboto;
+        font-size: 17px;
+        font-style: italic;
+        line-height: 21.09px;
+        text-align: center;
+}
+
+.master_card4{
+    margin: 0 auto ;
+    width: 350px;
+    height: 283px;
+    position: absolute;
+    top: 2771px;
+    margin-left: 760px;
+}
+        .master_card4 .master4{
+        display: flex;
+        margin: 0 auto;
+        width: 168px;
+        height: 168px;
+    }
+    .name4{
+        margin:0 auto;
+        width: 350px;
+        height: 29px;
+        /* font */
+        font-family: Roboto;
+        font-size: 24px;
+        line-height: 28.13px;
+        text-align: center;
+        color: #007765;
+    }
+    .word4{
+        display: 0 flex;
+        margin:  auto;
+        width: 350px;
+        height: 22px;
+    /* настройка шрифта */
+        font-family: Roboto;
+        font-size: 17px;
+        font-style: italic;
+        line-height: 21.09px;
+        text-align: center;
+}
+
+.master_card5{
+    margin: 0 auto ;
+    width: 350px;
+    height: 283px;
+    position: absolute;
+    top: 2458px;
+    margin-left: 380px;
+}   
+    .master_card5 .master5{
+        display: flex;
+        margin: 0 auto;
+        width: 168px;
+        height: 168px;
+    }
+    .name5{
+        margin:0 auto;
+        width: 350px;
+        height: 29px;
+        /* font */
+        font-family: Roboto;
+        font-size: 24px;
+        line-height: 28.13px;
+        text-align: center;
+        color: #007765;
+    }
+    .word5{
+        display: 0 flex;
+        margin:  auto;
+        width: 350px;
+        height: 22px;
+    /* настройка шрифта */
+        font-family: Roboto;
+        font-size: 17px;
+        font-style: italic;
+        line-height: 21.09px;
+        text-align: center;
+    }
+.master_card6{
+    margin: 0 auto ;
+    width: 350px;
+    height: 283px;
+    position: absolute;
+    top: 2458px;
+    margin-left: 760px;
+}   
+    .master_card6 .master6{
+        display: flex;
+        margin: 0 auto;
+        width: 168px;
+        height: 168px;
+    }
+    .name6{
+        margin:0 auto;
+        width: 350px;
+        height: 29px;
+        /* font */
+        font-family: Roboto;
+        font-size: 24px;
+        line-height: 28.13px;
+        text-align: center;
+        color: #007765;
+    }
+    .word6{
+        display: 0 flex;
+        margin:  auto;
+        width: 350px;
+        height: 22px;
+    /* настройка шрифта */
+        font-family: Roboto;
+        font-size: 17px;
+        font-style: italic;
+        line-height: 21.09px;
+        text-align: center;
+    }
+
+.bc2{
+    background-color:rgba(51, 51, 51, 1);
+    height: 220px;
+}
+.footer{
+    width: 2011px;
+    height: 176px;
+    margin: 0 auto;
+    display: flex;
+}
+.footer p{
+    margin: 0 auto;
+    width: 540px;
+    height: 64px;
+    position: absolute;
+    top: 3188px;
+    margin-left: 700px;
+    /* setinngs font */
+    font-family: Roboto;
+    font-size: 18px;
+    line-height: 21.09px;
+    text-align: center;
+    color:rgba(255, 255, 255, 1);
+    ;
+}
+
+
